@@ -10,5 +10,5 @@
 - clone projet de puis le repository
 - Ovrire le avec eclipce ou inteljIDE
 - la connection est nécessaire pour telechargé les bibliotheque
-- Aprée changé @ip avec @ip de VM dans le fichier de configuration main/resources/application.properties
+- Aprée changé @ip avec @ip de VM dans les fichier suivant : DbConnection/SendMail/RecieveMail
 - puis lancé le projet
